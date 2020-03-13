@@ -19,6 +19,4 @@ Requirements:
 
  ### Testing
 
- This applicaiton uses PHPUnit for unit testing which can be activated using `./vendor/phpunit/phpunit/phpunit`
-
- 
+ This applicaiton uses PHPUnit for unit testing which can be activated using `./vendor/phpunit/phpunit/phpunit` inside docker you can use `docker-compose exec app -it ./vendor/phpunit/phpunit/phpunit`
